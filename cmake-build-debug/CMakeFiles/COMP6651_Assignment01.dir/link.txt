@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/COMP6651_Assignment01.dir/driver.cpp.o CMakeFiles/COMP6651_Assignment01.dir/BKTree.cpp.o CMakeFiles/COMP6651_Assignment01.dir/Levenshtein.cpp.o  -o COMP6651_Assignment01 
